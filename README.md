@@ -1,3 +1,14 @@
-# KayanCast
-Neste repositório eu adicionei um player de música que eu fiz em um curso da Alura.
-Espero que gostem!
+# 🎵 KayanCast
+
+Um player de música que fiz em um curso da Alura, com visual inspirado no Spotify.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+## Como rodar
+
+Não precisa instalar nada: basta abrir o arquivo `KayanCast/index.html` no navegador (ou usar a extensão **Live Server** do VS Code).
+
+---
+
+Feito por [Kayan Denizo](https://github.com/KayanDenizo).
